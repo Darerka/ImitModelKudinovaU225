@@ -1,0 +1,3 @@
+﻿  umnMatriz.cpp
+D:\1Вуз\4 курс\1 Семестр\Имитационное моделирование процессов (ЭКЗ) Никитин\umnMatriz\umnMatriz\umnMatriz.cpp(35,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  umnMatriz.vcxproj -> D:\1Вуз\4 курс\1 Семестр\Имитационное моделирование процессов (ЭКЗ) Никитин\umnMatriz\x64\Debug\umnMatriz.exe
